@@ -8,7 +8,7 @@
 
 Library support for Kotlin coroutines with [multiplatform](#multiplatform) support.
 This is a companion version for Kotlin `1.4.0` release.
-
+<code>
 ```kotlin
 suspend fun main() = coroutineScope {
     launch { 
@@ -18,7 +18,7 @@ suspend fun main() = coroutineScope {
     println("Hello")
 }
 ```
-
+</code>
 > Play with coroutines online [here](https://pl.kotl.in/hG_tKbid_)
 
 ## Modules
